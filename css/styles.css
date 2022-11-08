@@ -7,7 +7,7 @@ body {
 }
 
 #header {
-    background-image: url("/images/coding-portfolio.jpeg");
+    background-image: url("../images/coding-portfolio.jpeg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;

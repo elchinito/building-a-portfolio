@@ -1,0 +1,21 @@
+body {
+    background-color: #252527;
+    color: #cccccc;
+    font-family: roboto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#header {
+    background-image: url("/building-a-portfolio/images/coding-portfolio.jpeg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #252527;
+}        
+    
+#comment {
+    display: flex;
+    justify-content: center;
+    
+}
